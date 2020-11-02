@@ -2,7 +2,7 @@
 
 The VM cluster provides a link between your Exadata Cloud@Customer infrastructure and Oracle Database.
 
-Before you can create any databases on your Exadata Cloud@Customer infrastructure, you must create a VM cluster network, and you must associate it with a VM cluster. Each Exadata Cloud@Customer infrastructure deployment can support one VM cluster network and associated VM cluster.
+Before you can create any databases on your Exadata Cloud@Customer infrastructure, you must create a VM cluster network, and you must associate it with a VM cluster. Each Exadata Cloud@Customer infrastructure deployment can support eight VM cluster networks and associated VM clusters.
 
 ## Prerequisites
 

@@ -1,6 +1,6 @@
 # Create VM Cluster Network
 
-Before you can create any databases on your Exadata Cloud@Customer infrastructure, you must create a VM cluster network, and you must associate it with a VM cluster. Each Exadata Cloud@Customer infrastructure deployment can support one VM cluster network and associated VM cluster.
+Before you can create any databases on your Exadata Cloud@Customer infrastructure, you must create a VM cluster network, and you must associate it with a VM cluster. Each Exadata Cloud@Customer infrastructure deployment can support eight VM cluster networks and associated VM clusters.
 
 ## Prerequisites
 
@@ -55,7 +55,7 @@ The VM cluster network specifies network resources, such as IP addresses and hos
 
 ![image-20200815130115981](./images/image-20200815130115981.png)
 
-5. Click **Next** to review the configuration. If everything looks five. Click **Create VM Cluster Network**.
+5. Click **Next** to review the configuration. If everything looks fine. Click **Create VM Cluster Network**.
 
    ![image-20200815140045482](images/image-20200815140045482.png)
 
